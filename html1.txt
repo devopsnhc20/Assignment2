@@ -1,0 +1,10 @@
+Practice Exercise 1: Meta Tags  and Title tags  
+<!DOCTYPE html>
+<html>
+<head>
+<title> My first project on HTML </title>
+<body>
+<p> This is first web site and <b> we are learning </b> </p>
+</body>
+</head>
+</html>
